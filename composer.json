@@ -1,0 +1,14 @@
+{
+    "name": "francophoenix/generador-certificado-pdf",
+    "description": "Generar un certificado en archivo pdf",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Franco",
+            "email": "franco.phoenix@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
