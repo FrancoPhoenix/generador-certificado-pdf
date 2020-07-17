@@ -9,19 +9,19 @@
             </span>
              <br><br>
              <span style="font-size:30px">
-                  <b>{{fullname}}</b>
+                  <b>{{ fullname }}</b>
             </span><br/><br/>
              <span style="font-size:25px">
                   <i>ha completado con éxito el curso online</i>
             </span> <br/><br/>
              <span style="font-size:30px">
-                  {{courseName}}
+                  {{ courseName }}
             </span> <br/><br/>
             <span style="font-size:25px">
                   <i>Fecha de Certificación</i>
             </span><br>
             <span style="font-size:30px">
-                  {{certificationDate}}
+                  {{ certificationDate }}
             </span>
       </div>
 </div>
